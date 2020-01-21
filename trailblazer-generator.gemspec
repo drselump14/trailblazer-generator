@@ -22,6 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "dry-validation"
   spec.add_dependency "hanami-cli"
   spec.add_dependency "hanami-utils"
+  spec.add_dependency "trailblazer", "2.1.0.rc1"
   spec.add_dependency "trailblazer-activity"
   spec.add_dependency "tty-prompt", "~> 0.15.0"
 
